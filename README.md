@@ -1,2 +1,6 @@
+
 # Notes
-Notes of my class
+
+Notes on my programming class.
+
+Welcome...
