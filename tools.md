@@ -1,5 +1,7 @@
 # Comandos
 
+## terminal
+
 *	pwd → Directorio Activo.
 *	cd "Name": Moverse entre carpetas .
 *	cd . . : Volver para atrás.
@@ -14,3 +16,30 @@
 *	ls -lh : muestra contenido de los archivos. 
 *	ls -laR: La combinación de todos.
 *	cat: Ves el contenido de un fichero.
+* seq: Secuencia de numeros
+* paste:Contactar archivos linea a linea (horizontal)
+* cat: contactar archivos con la terminal (vertical)
+* join: Combinaciones
+
+## Comandos que unen
+
+* paste: contactar archivos en linea a linea (horizontal)
+* cat : contactar archivos con la terminal (vertical)
+* join : combinaciones
+
+## Comandos que dividen
+
+* tail -2 archivo
+* tail -f (deja el archivo abierto)
+* head 
+* cut : corta en vertical => cut -d" " - f 1
+* split: divide en vertical
+
+## git
+* clone (solo hacerlo la primera vez)
+* commit (subit los cambios)
+* status (Ver los cambios que has hecho)
+* add (vigilar nuevos ficheros)
+* git add -u (eliminar archivos eliminados)
+* pull (actualizar el repositorio)
+* push (subir los cambios)
