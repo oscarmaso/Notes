@@ -35,7 +35,7 @@
 * cut : corta en vertical => cut -d" " - f 1
 * split: divide en vertical
 
-## git
+## Git
 * clone (solo hacerlo la primera vez)
 * commit (subit los cambios)
 * status (Ver los cambios que has hecho)
