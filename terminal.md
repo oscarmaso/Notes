@@ -1,6 +1,6 @@
 #Terminal
 
-##redirecciones
+## Redirecciones
 
 &gt; :redireccion de salida. Crea un fichero nuevo
 
@@ -11,3 +11,9 @@
 &lt;&lt;: Here document.
 
 &lt;&lt;&lt;: Here string.
+
+## Metacaracteres
+
+~ : Mi direccion home
+. :Directorio actual
+..: el cirectorio de arriba
