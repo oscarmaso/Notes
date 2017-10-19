@@ -14,6 +14,7 @@
 
 ## Metacaracteres
 
-* ~ : Mi direccion home
-* . :Directorio actual
-* ..: el cirectorio de arriba
+* ~   : Mi direccion home
+* .   : Directorio actual
+* ..  : El cirectorio de arriba
+* -   : El fichero que representa la terminal.
