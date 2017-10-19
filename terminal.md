@@ -4,7 +4,7 @@
 
 &gt; :redireccion de salida. Crea un fichero nuevo
 
-&gt;&gt;:DOble redireccion de S. Anexa a un fichero.
+&gt;&gt;:Doble redireccion de S. Anexa a un fichero.
 
 &lt;: Redirigir la entrada.
 
@@ -14,6 +14,6 @@
 
 ## Metacaracteres
 
-~ : Mi direccion home
-. :Directorio actual
-..: el cirectorio de arriba
+* ~ : Mi direccion home
+* . :Directorio actual
+* ..: el cirectorio de arriba
