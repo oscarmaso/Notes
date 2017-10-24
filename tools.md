@@ -43,3 +43,27 @@
 * git add -u (eliminar archivos eliminados)
 * pull (actualizar el repositorio)
 * push (subir los cambios)
+
+## Otras
+
+* wget : descarga desde una url
+* tr : translate
+* -s : squeeze
+* uniq -c : Deja filas unicas -c : cuenta
+* sort : ordena. -n : Númerico
+* bc :calculadora basica
+* cal: calendario
+
+## Comandos que trabajan con texto
+ 
+ * grep: filtra
+ * ed : editor sin ventanas
+ * sed: editor sin ventanas
+ * vi :(mejorado)
+ 
+## Para buscar
+* find : Busca ficheros
+* xargs : Ejecuta con argumentos
+* wich : Donde esta un ejecutable
+
+
