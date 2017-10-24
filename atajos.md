@@ -14,7 +14,7 @@
 *	cntr+ D: FInal de fichero.
 *   y luego tenemos redline.
 
-##GNOME 3 shell
+## GNOME 3 shell
 
 -	M :  Panel Lateral.
 -	C-q: Quitar un programa.
@@ -25,13 +25,13 @@
 -	M-Space: Cambiar el idioma.
 -	M-↑: Maximizar la venta.
 
-##TEXTO
+## TEXTO
 
 -	Cntr-+: Aumentar la fuente.
 -	Cntr--: Disminur la fuente.
 -	Cntr+C:	Copiar.
 -	Cntr+x: Cortar.
 -	Cntr+v:	Pegar.
--   S-←↑→↓: Subrayar de caracter en caracter.
+- S-←↑→↓: Subrayar de caracter en caracter.
 
 
