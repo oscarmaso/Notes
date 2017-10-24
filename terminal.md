@@ -19,6 +19,6 @@
 * ..  : El cirectorio de arriba
 * -   : El fichero que representa la terminal.
 
-## otros
+## Otros
 
 * #! Shebang: Interprete con el que hay que ejecutar el archivo.
