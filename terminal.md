@@ -20,41 +20,52 @@
 
 #: Cantidad de parametros
 
-## Metacaracteres
+## Sistemas de ficheros
 
-* $   : Dime el valor de una variable
-* --  : El fichero que representa la terminal.
-* ' ' : Partir en palabras
-* \   : Quita poder a los demas caracteres
-* ""  : Quita el poder a los caracteres excepto el dolar
-* ''  : Quita todos los poderes a los metacaractares
-* \#  : Comentario
-* \*  : Secuencia de caracteres
-* ?   : Cualquier caracter
-* []  : Conjunto de seleccion.
-* ()  : Combinaciones de secuencias
+* ~ : Mi directorio HOME 
+* . : Directorio actial 
+* .. : El directorio de arriba
 
-### Sistemas de ficheros
+* \* : secuencia de caracteres
+* ? : cualquier caracter
+* [] : conjunto de seleccion 
+* {} : combinaciones de secuencias
 
-* ~   : Mi direccion home
-* .   : Directorio actual
-* ..  : El cirectorio de arriba
+##Metacaracteres
 
-## General
+* $ : Dime el valor de una variable
 
-* Man: Manual de comandos
-- * man 1 
-- * man 2
-- * man 3
+### Opciones
 
-## Otros
+* "-" : A veces el fichero que representa a la terminal
+* 'space' : Partir palabras
+* \\ : secuencia de escape => Criptonita de los metacaracteres 
+* "" : quitan el porder de casi todos los metacaracteres menos al _$_
+* '' : quita todos los porderes a los de mas metacaracteres
+* \# : comentario
 
-* #! Shebang: Interprete con el que hay que ejecutar el archivo.
-* !! : EL ultimo comando
-* !* : Los ultimos parametros (en paris)
 
-## Operadores Logicos
+## General 
+ 
+* man : Manual de los comandos
+- * man 1 :   
+- * man 2 :
+- * man 3 : 
 
-*   && = AND
-*   || = OR
-*   !  = NOT
+
+## Otros 
+
+ * \#! Shebang : Interprete con el que hay que ejecutar el archivo.
+ * !! : los ultimo comando /mohicano
+ * !\* : los ultimos parametros (en paris)
+
+
+## Operadores logicos
+
+ * && : AND 
+ * || : OR
+ * ! : NOT
+
+## Variable
+
+ * # : cantidad de parametros
