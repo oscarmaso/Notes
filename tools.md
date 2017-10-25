@@ -54,6 +54,15 @@
 * sort : ordena. -n : Númerico.
 * bc : calculadora basica 
 * cal : calendario
+*rsync: Hace copias de seguridad (Varios equipos)
+*mysqldump: volcado de la base de datos
+*date: Muestra la fecha (backup rotativos)
+*hitory: Muestra el historial
+*fg <>: Trae un proceso a primer plano
+*jobs: Lista todos los procesos detenidos
+*ps aux: Vemos los procesos
+*kill <pid>: Matamos el proceso
+*kill -9 <pid>: Matar por la fuerza
 
 
 ## comandos que trabajan con texto 
