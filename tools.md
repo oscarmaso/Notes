@@ -15,11 +15,7 @@
 *	ls -R : Nos enseña también los subdirectorios.
 *	ls -lh : muestra contenido de los archivos. 
 *	ls -laR: La combinación de todos.
-*	cat: Ves el contenido de un fichero.
 * seq: Secuencia de numeros
-* paste:Contactar archivos linea a linea (horizontal)
-* cat: contactar archivos con la terminal (vertical)
-* join: Combinaciones
 
 ## Comandos que unen 
 
@@ -54,15 +50,15 @@
 * sort : ordena. -n : Númerico.
 * bc : calculadora basica 
 * cal : calendario
-*rsync: Hace copias de seguridad (Varios equipos)
-*mysqldump: volcado de la base de datos
-*date: Muestra la fecha (backup rotativos)
-*hitory: Muestra el historial
-*fg <>: Trae un proceso a primer plano
-*jobs: Lista todos los procesos detenidos
-*ps aux: Vemos los procesos
-*kill <pid>: Matamos el proceso
-*kill -9 <pid>: Matar por la fuerza
+* rsync: Hace copias de seguridad (Varios equipos)
+* mysqldump: volcado de la base de datos
+* date: Muestra la fecha (backup rotativos)
+* hitory: Muestra el historial
+* fg <>: Trae un proceso a primer plano
+* jobs: Lista todos los procesos detenidos
+* ps aux: Vemos los procesos
+* kill <pid>: Matamos el proceso
+* kill -9 <pid>: Matar por la fuerza
 
 
 ## comandos que trabajan con texto 
